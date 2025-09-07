@@ -54,12 +54,6 @@ body {
     animation: fadeIn 2s ease-out;
 }
 
-.title {
-    font-size: 1.2em;
-    color: rgba(255, 255, 255, 0.9);
-    margin-bottom: 20px;
-}
-
 .section {
     margin: 30px 0;
     background: rgba(255, 255, 255, 0.8);
@@ -180,3 +174,4 @@ body {
         padding: 10px;
     }
 }
+
